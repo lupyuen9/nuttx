@@ -27,6 +27,7 @@ on:
       - "CONTRIBUTING.md"
       - "Documentation/**"
     branches:
+      - master
       - "releases/*"
     tags:
 
